@@ -1,4 +1,4 @@
-//Código escrito em colaboração por Leonardo Izaú e Mariana Fortes.
+//Código escrito em conjunto por Leonardo Izaú (@Vladek96) e Mariana Fortes (@MarianaFortes)
 
 import java.io.*;
 
